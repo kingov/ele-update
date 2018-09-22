@@ -1,0 +1,19 @@
+{
+  "name": "ele-update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
